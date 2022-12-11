@@ -1,4 +1,4 @@
-## Oiii eu sou a Adriano Barbosa, Desenvolvedor full stack e professor!
+## Oiii eu sou Adriano Barbosa, Desenvolvedor full stack e professor!
 <div align="center">
   <a href="https://github.com/adrianobarbosa95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianobarbosa95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
